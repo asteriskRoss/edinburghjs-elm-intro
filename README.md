@@ -4,6 +4,8 @@
 
 This is a single page web application written in [Elm](https://elm-lang.org).  It displays the slides for a presentation I delivered at the EdinburghJS meetup on Thursday 18 May 2023.  The intention was that the audience would have an opportunity to look at a simple but real-world app to accompany the presentation.
 
+You can watch the recording of the [EdinburghJS Introduction to Elm presentation here](https://www.youtube.com/live/W_5b2QU8ZQk?feature=share&t=2820).
+
 If you are interested in learning Elm I highly recommend working through the [official Elm guide](https://guide.elm-lang.org/).
 
 ## Installing Elm
